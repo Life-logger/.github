@@ -18,10 +18,10 @@
 ## Branch Strategy
 
 브랜치 이름: `feature/#<이슈번호>-<기능명>`
-             ex. feature/#1-kakao-login
-             - `master`: 완성된 제품 브랜치
-  - `feature/yymmdd-branch-name` : 각 기능별 브랜치
- - `hotfix`: 출시 버전에서 발생한 버그수정 브랜치
+              / ex. feature/#1-kakao-login
+- `master`: 완성된 제품 브랜치
+- `feature/yymmdd-branch-name` : 각 기능별 브랜치
+- `hotfix`: 출시 버전에서 발생한 버그수정 브랜치
 
 
 ## Commit Message Convention
